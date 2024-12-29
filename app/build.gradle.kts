@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.kms.Animation"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.kms.Animation"
